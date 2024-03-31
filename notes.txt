@@ -1,0 +1,10 @@
+when you are done with your changes 
+git checkout -b branchName // create a new branch 
+git add . // add all of your changes
+git commit -m "your msg" // add a message top ur commit explaining wat you have changed
+git push // push your changes to the branch
+git push --set-upstream origin branchName // if it is your first commit you will have to pusgh like this
+
+in order to open a new pull request after pushing your code visit github.com, there you will see that there was a 
+new branch created and gitHub will show you a button saying "open new pull request", you will push that button and create  a new pull request, and then you will copy the link of your pull request and send it to me for review :D
+
