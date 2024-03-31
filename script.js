@@ -1,2 +1,2 @@
-let ourworld = earth
+let ourworld = earth;
 let visitor;

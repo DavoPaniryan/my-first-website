@@ -1,13 +1,13 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../style.css"
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "script"
-	}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../style.css"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "script"
+  }
 }
